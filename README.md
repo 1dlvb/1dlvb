@@ -1,6 +1,6 @@
  Hi, I’m Matushkin Anton / @1dlvb
-- I’m interested in Python, web programming and other programming industries.
-- I’m currently learning Python, Django, Flask, MySQL, SQLite, etc.
+- I’m interested in Lava, Python, web programming and other programming industries.
+- I’m currently learning Lava.
 - I’m looking to collaborate on interesting projects.
 - How to reach me? email: matushkin-2017@mail.ru
 

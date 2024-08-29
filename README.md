@@ -1,6 +1,5 @@
  Hi, I’m Matushkin Anton / @1dlvb
-- I’m interested in Java, Python. Web programming and other programming industries.
-- I’m currently learning Java.
+- I’m interested in Java web programming and other programming industries.
 - I’m looking to collaborate on interesting projects.
 - How to reach me? email: matushkin-2017@mail.ru
 
